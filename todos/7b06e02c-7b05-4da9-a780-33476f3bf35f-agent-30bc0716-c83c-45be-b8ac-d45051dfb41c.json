@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Debug why the form validation is preventing submission despite having coordinates set",
+    "status": "completed",
+    "id": "debug_form_validation"
+  },
+  {
+    "content": "Fix the coordinate validation logic in HuntForm to handle non-zero coordinates properly",
+    "status": "completed",
+    "id": "fix_validation_logic"
+  },
+  {
+    "content": "Update E2E test to be more specific about validation error detection",
+    "status": "completed",
+    "id": "improve_test_robustness"
+  },
+  {
+    "content": "Run the test again to confirm the fix works",
+    "status": "completed",
+    "id": "verify_fix"
+  }
+]

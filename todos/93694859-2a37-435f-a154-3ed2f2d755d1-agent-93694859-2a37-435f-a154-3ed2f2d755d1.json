@@ -1,0 +1,102 @@
+[
+  {
+    "content": "Create new branch for photo management system",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create polymorphic Photo model with ContentType framework",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create migration to move HuntPhoto data to Photo model",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Enhance S3Manager with bulk operations and cleanup methods",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create unified PhotoViewSet with polymorphic support",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Implement PhotoSerializer with generic content object support",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Create centralized PhotoManager React component",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Build photo management UI with delete, edit, reorder functionality",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Implement bulk operations (multi-select, bulk delete, bulk edit)",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Update Hunt model and views to use new Photo model",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Add comprehensive tests for photo management system",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Test migration from HuntPhoto to Photo model",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Fix E203 vs Black formatting conflict (disable E203 in flake8 config)",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Commit changes and create comprehensive pull request",
+    "status": "completed",
+    "id": "14"
+  },
+  {
+    "content": "Fix Docker container flake8 config to resolve CI failures",
+    "status": "completed",
+    "id": "15"
+  },
+  {
+    "content": "Fix testlint-quick script merge conflicts and Docker configuration",
+    "status": "completed",
+    "id": "16"
+  },
+  {
+    "content": "Resolve CI flake8 failures (W503 and C901 complexity errors)",
+    "status": "completed",
+    "id": "17"
+  },
+  {
+    "content": "Resolve merge conflicts with main branch",
+    "status": "completed",
+    "id": "18"
+  },
+  {
+    "content": "Fix invalid DragHandleDots2 icon import causing TypeScript build failure",
+    "status": "completed",
+    "id": "19"
+  },
+  {
+    "content": "Celebrate successful merge of comprehensive photo management system! 🎉",
+    "status": "completed",
+    "id": "20"
+  }
+]

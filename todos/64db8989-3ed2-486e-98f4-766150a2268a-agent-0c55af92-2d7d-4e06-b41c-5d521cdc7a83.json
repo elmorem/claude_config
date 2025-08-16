@@ -1,0 +1,57 @@
+[
+  {
+    "content": "Fix E501 violations in fowldata/accounts/api_views.py (9 violations)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/authentication.py (1 violation)",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/forms.py (3 violations)",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/middleware.py (2 violations)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/nextauth_backend.py (8 violations)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/migrations/ files (3 violations)",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/tests/ files (~50 violations)",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/api_views.py and migrations/ files",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Check if weather_api.py file exists and fix any E501 violations",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Fix remaining E501 violations in fowldata/hunts/tests/ files",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Run final flake8 check to verify 0 E501 violations remaining",
+    "status": "completed",
+    "id": "11"
+  }
+]

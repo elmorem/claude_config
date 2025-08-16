@@ -1,0 +1,72 @@
+[
+  {
+    "content": "Create test fixtures and setup for Reports API tests",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test SharingPolicyViewSet CRUD operations",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test SharingPolicyViewSet authentication and permissions",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test SharingPolicyViewSet user isolation and filtering",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test SharingPolicyViewSet duplicate functionality",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test ReportViewSet CRUD operations",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Test ReportViewSet privacy enforcement and sharing policies",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Test ReportViewSet geospatial endpoints (nearby, geojson)",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Test ReportViewSet custom actions (my_reports)",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Test ReportViewSet data validation and error handling",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Test ReportCommentViewSet CRUD operations",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Test ReportCommentViewSet nested threading functionality",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Test ReportCommentViewSet permissions and access control",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Test performance considerations and query optimization",
+    "status": "completed",
+    "id": "14"
+  }
+]

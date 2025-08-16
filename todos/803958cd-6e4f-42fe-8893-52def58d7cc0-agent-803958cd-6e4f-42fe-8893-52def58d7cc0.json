@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Check what MCP servers are running in Docker",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add individual MCP servers to Claude Code configuration",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test individual MCP server tools",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

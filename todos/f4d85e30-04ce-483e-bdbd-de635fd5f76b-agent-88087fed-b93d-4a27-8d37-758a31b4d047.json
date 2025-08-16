@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Analyze and fix NextAuth v5 + MongoDB ID format mismatch issue",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Implement custom ID generation for MongoDB compatibility",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix JWT callbacks to properly handle MongoDB ObjectIds",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update Prisma adapter configuration for MongoDB",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Test authentication flow with both OAuth and credentials",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Create migration script for existing UUID users",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

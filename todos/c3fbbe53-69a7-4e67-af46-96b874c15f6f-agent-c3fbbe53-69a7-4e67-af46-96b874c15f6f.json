@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Update E2E test selectors to match current UI implementation",
+    "status": "completed",
+    "id": "update_test_selectors"
+  },
+  {
+    "content": "Run linting and tests to verify all fixes",
+    "status": "completed",
+    "id": "run_linting_tests"
+  },
+  {
+    "content": "Fix remaining 12 failing backend tests",
+    "status": "completed",
+    "id": "fix_backend_tests"
+  },
+  {
+    "content": "Create Profile Edit Page - Complete user profile management system",
+    "status": "pending",
+    "id": "create_profile_edit"
+  },
+  {
+    "content": "Polish Photo System - Add toast notifications and photo management improvements",
+    "status": "pending",
+    "id": "polish_photo_system"
+  },
+  {
+    "content": "Implement Location Detail Modal - Connect the TODO in main page to actual location modal",
+    "status": "completed",
+    "id": "implement_location_modal"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix SharingPolicy test_sharing_policy_defaults - model default for allow_location_sharing is True, not False",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add latitude/longitude to Report.objects.create() calls missing coordinates in test_reports_privacy.py",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Add latitude/longitude to Report.objects.create() calls missing coordinates in test_reports_performance.py",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add latitude/longitude to Report.objects.create() calls missing coordinates in test_reports_models.py",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add latitude/longitude to Report.objects.create() calls missing coordinates in test_reports_api_views.py",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Run tests to verify all fixes work correctly",
+    "status": "completed",
+    "id": "6"
+  }
+]

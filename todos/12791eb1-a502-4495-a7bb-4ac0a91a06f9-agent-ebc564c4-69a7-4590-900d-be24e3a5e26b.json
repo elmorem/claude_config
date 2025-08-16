@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix ObjectID malformed error - Update user ID generation logic to avoid 'guest_' prefix causing backend parsing issues",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Improve WebSocket connection stability for iPad - Add better connection retry logic and error handling",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Add timeout and error recovery for research submission - Prevent infinite loading states",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add Account Deletion feature - Implement delete account API endpoint and UI in UserView",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add proper loading states and user feedback during research submission",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test research submission flow on iPad Air 11-inch (M2) to ensure it works properly",
+    "status": "completed",
+    "id": "6"
+  }
+]

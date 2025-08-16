@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Update WebSocket URL from '/ws' to '/report/ws' in WebSocketService.swift",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add better error handling to distinguish between network errors and endpoint errors",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Add connection validation to test endpoint before establishing WebSocket",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test the WebSocket connection to verify it works with the correct endpoint",
+    "status": "completed",
+    "id": "4"
+  }
+]

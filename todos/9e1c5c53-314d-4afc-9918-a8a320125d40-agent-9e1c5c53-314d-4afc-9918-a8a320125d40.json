@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Merge current test isolation and PostgreSQL fixes",
+    "status": "completed",
+    "id": "17"
+  },
+  {
+    "content": "Create new branch for remaining CI issues",
+    "status": "completed",
+    "id": "18"
+  }
+]

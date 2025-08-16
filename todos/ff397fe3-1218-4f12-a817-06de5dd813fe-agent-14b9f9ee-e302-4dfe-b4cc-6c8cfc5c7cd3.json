@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Fix Location API serialization - missing 'user' field in create response",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix privacy filtering tests - update assertions to match paginated API response structure",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix hunt delete permission - should return 404 when hunt not in user's filtered queryset",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Verify friendship setup is working correctly for privacy filtering",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Update all privacy API tests to handle correct response structures",
+    "status": "completed",
+    "id": "5"
+  }
+]

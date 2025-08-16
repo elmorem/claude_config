@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Add NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN to frontend/.env.local",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add MAPBOX_ACCESS_TOKEN to root .env.local",
+    "status": "completed",
+    "id": "2"
+  }
+]

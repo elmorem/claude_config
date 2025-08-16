@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Check if Docker Desktop is running and connected",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Verify containers are actually running via CLI",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Check Docker Desktop settings and preferences",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Investigate potential Docker context issues",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Check for Docker Desktop UI refresh issues",
+    "status": "completed",
+    "id": "5"
+  }
+]

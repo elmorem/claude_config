@@ -1,0 +1,77 @@
+[
+  {
+    "content": "Create comprehensive plan for new map layer system with privacy levels and time filtering - SPECIFIC plans for all 9 layers (3 privacy levels × 3 data types) - EMPHASIZE PERFORMANCE",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Get backend expert review of plan focusing on database queries, API design, and PERFORMANCE optimization strategies",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Get UI expert review of plan focusing on layer controls and time slider interface",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Refine plan based on expert feedback and Mapbox best practices",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Present final plan for user review and approval",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Phase 1: Backend Implementation - privacy_level fields, robust Friendship model, unified endpoints, indexes, caching",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix database schema mismatch and legacy field references",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Fix serializer issues to separate GeoJSON and regular API responses",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Phase 1: Create comprehensive backend tests for new functionality",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Phase 2: Create unified React hooks for efficient data fetching with privacy levels",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Phase 2: Implement time range slider component with month/year selection",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Phase 2: Enhance layer control panel with privacy-based toggles",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Phase 2: Update map component to use new layer system",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Phase 2: Create comprehensive frontend tests for new functionality",
+    "status": "completed",
+    "id": "14"
+  },
+  {
+    "content": "Phase 3: Testing & Polish - performance optimization, mobile responsiveness, error handling",
+    "status": "completed",
+    "id": "15"
+  }
+]

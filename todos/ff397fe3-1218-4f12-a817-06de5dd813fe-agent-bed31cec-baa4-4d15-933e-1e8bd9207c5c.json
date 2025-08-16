@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Fix test_location_shared_with_user_query_optimization - replace location_shares__shared_with filtering with privacy-based filtering",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix test_location_serializer_query_optimization - update to use privacy model instead of location_shares",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix test_bulk_location_creation_performance - ensure PostGIS Point field is properly set during bulk creation",
+    "status": "completed",
+    "id": "3"
+  }
+]

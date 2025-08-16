@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Fix location test assertion to expect user object instead of user ID",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix layer preference factory function signatures to accept correct arguments",
+    "status": "completed",
+    "id": "2"
+  }
+]

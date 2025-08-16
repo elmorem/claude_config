@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix environment variable configuration in CI files (.env.ci and frontend/.env.ci)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update Docker Compose CI configuration with proper environment variables",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix CI workflow with better health checks and environment variable handling",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update Playwright configuration for CI environment compatibility",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Update verification scripts to check new configuration",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test all changes locally and verify E2E reliability",
+    "status": "completed",
+    "id": "6"
+  }
+]

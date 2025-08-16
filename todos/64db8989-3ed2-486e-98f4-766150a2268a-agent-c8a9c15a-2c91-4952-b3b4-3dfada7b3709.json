@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Test hunt icon click to activate crosshair mode",
+    "status": "completed",
+    "id": "test-1"
+  },
+  {
+    "content": "Verify cursor changes to crosshair when hunt tool is active",
+    "status": "completed",
+    "id": "test-2"
+  },
+  {
+    "content": "Test clicking on map to place hunt marker and open modal",
+    "status": "completed",
+    "id": "test-3"
+  },
+  {
+    "content": "Verify CreateHuntModal opens with correct coordinates",
+    "status": "completed",
+    "id": "test-4"
+  },
+  {
+    "content": "Test hunt modal form fields (name, date, notes)",
+    "status": "completed",
+    "id": "test-5"
+  },
+  {
+    "content": "Test weather data loading in hunt modal",
+    "status": "completed",
+    "id": "test-6"
+  },
+  {
+    "content": "Test bird selection functionality in hunt modal",
+    "status": "completed",
+    "id": "test-7"
+  },
+  {
+    "content": "Test hunt modal submission workflow",
+    "status": "completed",
+    "id": "test-8"
+  },
+  {
+    "content": "Test hunt modal cancellation and cleanup",
+    "status": "completed",
+    "id": "test-9"
+  },
+  {
+    "content": "Verify temporary markers are cleared after modal actions",
+    "status": "completed",
+    "id": "test-10"
+  }
+]

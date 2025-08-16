@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Run black formatter on Python backend code",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Check and fix any remaining linting errors",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Run tests to ensure CI will pass",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Commit linting fixes and push to PR",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

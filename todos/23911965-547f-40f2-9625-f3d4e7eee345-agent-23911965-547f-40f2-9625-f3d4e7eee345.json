@@ -1,0 +1,104 @@
+[
+  {
+    "content": "Fix user registration to automatically sign in after successful registration",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Debug why credentials sign-in logging isn't working",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Investigate why production build is using old code despite clean rebuild",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix Docker build to use local context instead of pulling from registry",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Debug why container is still running old code despite rebuild",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Fix name validation error in registration form",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Fix registration success handling - user should be redirected or shown success message",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Debug form state inconsistency - users registering but form showing errors",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Debug why success response is not reaching client component",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Fix registration redirect issue - success state not triggering redirect",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Fix session creation after successful login - user gets 'Please log in' message",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Change redirect after signin from dashboard to main page",
+    "status": "completed",
+    "priority": "medium",
+    "id": "12"
+  },
+  {
+    "content": "Remove all dashboard redirects and replace with home redirects",
+    "status": "completed",
+    "priority": "high",
+    "id": "13"
+  },
+  {
+    "content": "Delete dashboard folder and page.tsx",
+    "status": "completed",
+    "priority": "high",
+    "id": "14"
+  },
+  {
+    "content": "Test the complete auth flow end-to-end",
+    "status": "completed",
+    "priority": "medium",
+    "id": "15"
+  },
+  {
+    "content": "Fix Google OAuth redirect_uri_mismatch error",
+    "status": "completed",
+    "priority": "medium",
+    "id": "16"
+  },
+  {
+    "content": "Fix PKCE code verifier error in Google OAuth flow",
+    "status": "completed",
+    "priority": "high",
+    "id": "17"
+  }
+]

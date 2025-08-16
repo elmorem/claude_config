@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create comprehensive research flow end-to-end tests covering authentication, WebSocket, API, and UI interactions",
+    "status": "completed",
+    "id": "create-research-flow-tests"
+  },
+  {
+    "content": "Create device-specific test suites for iPhone SE, 15, 15 Pro, iPad Air, Pro, and mini with orientation and multitasking scenarios",
+    "status": "completed",
+    "id": "create-device-specific-tests"
+  },
+  {
+    "content": "Create comprehensive error scenario tests for network interruption, WebSocket disconnection, and timeout handling",
+    "status": "completed",
+    "id": "create-error-scenario-tests"
+  },
+  {
+    "content": "Create performance tests for research submission latency, WebSocket connection establishment, and memory usage",
+    "status": "completed",
+    "id": "create-performance-tests"
+  },
+  {
+    "content": "Create iPad-specific test suites for split-screen, multitasking, network handoff, and background transitions",
+    "status": "completed",
+    "id": "create-ipad-specific-tests"
+  },
+  {
+    "content": "Create user experience and data persistence tests for research history, session recovery, and file upload state",
+    "status": "completed",
+    "id": "create-ux-persistence-tests"
+  }
+]

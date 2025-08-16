@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Fix NameError: name 'true' is not defined in skipif condition",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix KeyError: 'user' in test_serializer_read_only_fields",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Resolve database constraint violations indicating test isolation issues",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add proper database cleanup for layer models test isolation",
+    "status": "completed",
+    "id": "4"
+  }
+]

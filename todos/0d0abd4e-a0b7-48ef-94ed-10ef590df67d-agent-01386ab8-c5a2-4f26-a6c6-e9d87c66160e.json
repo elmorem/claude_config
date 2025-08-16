@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Fix my_reports action response format - update tests to handle paginated response structure",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix geojson action response format - update tests to handle paginated response structure",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix ReportPermission authentication issue - should require authentication for read access",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Check and fix nearby action tests for pagination issues",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix comment thread action tests for any response format issues",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Update sharing policy tests that might have similar pagination/authentication issues",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Run all tests to verify fixes and identify any remaining issues",
+    "status": "completed",
+    "id": "7"
+  }
+]

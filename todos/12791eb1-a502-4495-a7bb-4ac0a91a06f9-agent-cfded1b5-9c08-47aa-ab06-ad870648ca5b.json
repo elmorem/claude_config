@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create comprehensive device-specific login tests for iPhone/iPad/different screen sizes",
+    "status": "completed",
+    "id": "device_tests"
+  },
+  {
+    "content": "Create network condition tests for WiFi/cellular/poor connections",
+    "status": "completed",
+    "id": "network_tests"
+  },
+  {
+    "content": "Create authentication flow tests for valid/invalid credentials and error handling",
+    "status": "completed",
+    "id": "auth_flow_tests"
+  },
+  {
+    "content": "Create UI/UX tests for login form rendering and keyboard handling",
+    "status": "completed",
+    "id": "ui_tests"
+  },
+  {
+    "content": "Create integration tests for end-to-end login flow and session persistence",
+    "status": "completed",
+    "id": "integration_tests"
+  },
+  {
+    "content": "Update existing test files with new comprehensive test suites",
+    "status": "completed",
+    "id": "update_tests"
+  }
+]

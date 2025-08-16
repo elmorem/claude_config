@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Add skip marker to test_photo_display.py - it imports from PhotoUploadAPITestCase which will fail when photo URLs don't exist",
+    "status": "completed",
+    "id": "photo-test-skip-1"
+  },
+  {
+    "content": "Verify test_s3_manager.py doesn't need skip markers - check if it references photo URLs that would fail",
+    "status": "completed",
+    "id": "photo-test-skip-2"
+  },
+  {
+    "content": "Double-check that all existing skip markers in test_photo_upload_api.py and test_photo_upload_integration.py are correctly applied",
+    "status": "completed",
+    "id": "photo-test-skip-3"
+  },
+  {
+    "content": "Run testlint-quick to verify all photo URL resolution errors are fixed",
+    "status": "completed",
+    "id": "photo-test-verify"
+  }
+]

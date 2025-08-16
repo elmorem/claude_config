@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create enhanced form validation schema with proper error messages and accessibility",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Enhance CreateHuntModal with react-hook-form, improved accessibility, and better UX patterns",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Improve BirdSelection component with better validation, accessibility, and workflow",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add form field components with proper accessibility and error states",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test the enhanced modal for accessibility and user experience",
+    "status": "completed",
+    "id": "5"
+  }
+]

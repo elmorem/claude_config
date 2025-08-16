@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Review current authentication and WebSocket flow in key files",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add comprehensive logging to guest account creation process",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Enhance WebSocket connection debugging with detailed error tracking",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Verify token format and authentication timing issues",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test and fix WebSocket connection establishment for guest users",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Validate complete research workflow from submission to WebSocket connection",
+    "status": "completed",
+    "id": "6"
+  }
+]

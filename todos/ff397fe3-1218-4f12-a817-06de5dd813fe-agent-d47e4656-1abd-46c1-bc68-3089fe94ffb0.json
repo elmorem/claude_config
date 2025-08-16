@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Fix test isolation by disabling signals and ensuring clean database state for each test",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update bulk_toggle API endpoint to include missing response fields (created_count, total_layers)",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update fixtures to be completely deterministic with known data counts",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Run tests to verify all 10 failing tests now pass reliably",
+    "status": "completed",
+    "id": "4"
+  }
+]

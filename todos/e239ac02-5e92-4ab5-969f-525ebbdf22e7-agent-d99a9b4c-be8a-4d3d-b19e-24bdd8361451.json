@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Navigate to localhost:3000 and login with test credentials",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Click Create New Hunt tool and select location on map",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test date changes to verify single notification behavior",
+    "status": "in_progress",
+    "id": "3"
+  },
+  {
+    "content": "Verify previous notifications are dismissed properly",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Test different locations and dates for caching mechanism",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Take screenshots showing improved notification behavior",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Verify hunt creation still works correctly",
+    "status": "pending",
+    "id": "7"
+  }
+]

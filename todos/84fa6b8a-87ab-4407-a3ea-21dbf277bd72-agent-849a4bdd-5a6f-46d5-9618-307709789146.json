@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create small test images for photo upload testing (JPG, PNG, WebP, and invalid formats)",
+    "status": "completed",
+    "id": "create_test_images"
+  },
+  {
+    "content": "Create comprehensive E2E test file for photo upload functionality covering happy path, error scenarios, and edge cases",
+    "status": "completed",
+    "id": "create_photo_upload_e2e"
+  },
+  {
+    "content": "Create authentication helper function for E2E tests to sign in with test credentials",
+    "status": "completed",
+    "id": "create_auth_helper"
+  },
+  {
+    "content": "Create complete hunt creation E2E test that includes photo upload integration",
+    "status": "completed",
+    "id": "create_hunt_flow_e2e"
+  },
+  {
+    "content": "Run the new E2E tests to ensure they work correctly and are reliable",
+    "status": "completed",
+    "id": "test_validation"
+  }
+]

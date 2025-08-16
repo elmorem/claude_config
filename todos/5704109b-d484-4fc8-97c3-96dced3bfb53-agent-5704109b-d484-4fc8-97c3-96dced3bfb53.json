@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix splash page 'Start Now' button routing",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix middleware redirect logic for unauthenticated users",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test authentication flow from splash to signin",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

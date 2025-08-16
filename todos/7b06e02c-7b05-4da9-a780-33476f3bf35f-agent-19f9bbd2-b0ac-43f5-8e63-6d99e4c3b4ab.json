@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix 4 failing friendship API tests",
+    "status": "completed",
+    "id": "fix-friendship-tests"
+  },
+  {
+    "content": "Fix test_block_by_uninvolved_user: Expected 403 but got 404 - needs proper permission checking in block action",
+    "status": "completed",
+    "id": "fix-block-permission"
+  },
+  {
+    "content": "Fix test_update_friendship_status_ignored: Status field should be read-only but is currently being updated via PATCH",
+    "status": "completed",
+    "id": "fix-status-readonly"
+  },
+  {
+    "content": "Fix test_friendship_serializer_fields: Missing 'from_user_details' and 'to_user_details' fields in FriendshipSerializer",
+    "status": "completed",
+    "id": "add-user-details-fields"
+  },
+  {
+    "content": "Fix test_friendship_user_details: Ensure user detail fields have proper structure with username and email",
+    "status": "completed",
+    "id": "verify-user-details-structure"
+  },
+  {
+    "content": "Run the complete friendship API test suite to ensure no other tests were broken",
+    "status": "completed",
+    "id": "run-full-test-suite"
+  }
+]

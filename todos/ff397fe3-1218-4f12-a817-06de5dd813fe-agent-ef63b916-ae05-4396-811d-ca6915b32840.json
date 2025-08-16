@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Analyze current environment configuration and DNS resolution issues",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create immediate fixes for environment variable configuration",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update auth.ts for better environment detection and fallback logic",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Improve CI workflow configuration for proper networking",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create local E2E test setup verification script",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Implement testing strategy for 3 consecutive successful runs",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Document environment-aware configuration best practices",
+    "status": "completed",
+    "id": "7"
+  }
+]

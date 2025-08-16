@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Check if .env.example is being loaded anywhere",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Verify Next.js environment file loading behavior",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Examine django-environ configuration",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Restore frontend/.env.local if needed for NextAuth",
+    "status": "completed",
+    "id": "4"
+  }
+]

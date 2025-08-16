@@ -1,0 +1,67 @@
+[
+  {
+    "content": "Analyze current map control layout and identify positioning conflicts",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create reorganization plan for map controls positioning",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Implement new pointer/select tool in CustomToolsControl component",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Move fullscreen and measurement controls from top-right to bottom-right",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Update layer controls to use top-right position (freed from moving other controls)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Add pointer tool state management and click handling logic",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Integrate pointer tool with existing feature selection (hunt/location modal loading)",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Update page.tsx to use new control positioning",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Test control positioning and ensure no overlaps with sidebar",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Fix fullscreen control still appearing in top-right position",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Verify pointer tool is properly rendered in CustomToolsControl",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Debug why pointer tool is not visible in bottom-right controls",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Create summary and final documentation of reorganized map controls",
+    "status": "completed",
+    "id": "13"
+  }
+]

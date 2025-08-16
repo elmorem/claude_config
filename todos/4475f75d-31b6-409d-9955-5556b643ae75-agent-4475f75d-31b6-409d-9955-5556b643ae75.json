@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Examine authentication flow and login code",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Check API endpoints and network configuration",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Review error handling for login failures",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test login functionality on iPad simulator",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix iPad-specific login and network timeout issues",
+    "status": "completed",
+    "id": "5"
+  }
+]

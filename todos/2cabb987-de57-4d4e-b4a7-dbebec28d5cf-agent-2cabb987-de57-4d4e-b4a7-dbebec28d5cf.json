@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix welcome window z-index to appear above sidebar",
+    "status": "completed",
+    "priority": "high",
+    "id": "88"
+  },
+  {
+    "content": "Debug why navigation controls only show in fullscreen",
+    "status": "completed",
+    "priority": "high",
+    "id": "89"
+  },
+  {
+    "content": "Fix missing measurement tools in top-right",
+    "status": "completed",
+    "priority": "high",
+    "id": "90"
+  },
+  {
+    "content": "Fix missing custom tools in bottom-right",
+    "status": "completed",
+    "priority": "high",
+    "id": "91"
+  },
+  {
+    "content": "Research Mapbox/Next.js compatibility issues",
+    "status": "completed",
+    "priority": "medium",
+    "id": "92"
+  }
+]

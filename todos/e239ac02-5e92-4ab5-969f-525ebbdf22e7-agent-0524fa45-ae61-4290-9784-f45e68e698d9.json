@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Navigate to localhost:3000 and take initial screenshot",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Login with test credentials (mark@mail.com / 1@Tsgstp)",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Click the Create New Hunt tool (🎯 icon) in bottom-right controls",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Select a location on the map to trigger hunt creation modal",
+    "status": "in_progress",
+    "id": "4"
+  },
+  {
+    "content": "Fill in hunt date (past date like 2024-12-01) and observe weather data",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Check browser console for weather API calls and responses",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Attempt to create the hunt and verify success",
+    "status": "pending",
+    "id": "7"
+  },
+  {
+    "content": "Take screenshots of weather data, console logs, and hunt creation",
+    "status": "pending",
+    "id": "8"
+  }
+]

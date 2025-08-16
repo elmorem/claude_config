@@ -1,0 +1,1 @@
+These are my basic user level claude settings

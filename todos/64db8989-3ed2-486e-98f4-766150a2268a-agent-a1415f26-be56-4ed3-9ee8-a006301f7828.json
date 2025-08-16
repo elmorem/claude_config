@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Fix E501 violations in fowldata/accounts/api_views.py (11 lines)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/authentication.py (4 lines)",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/forms.py (3 lines)",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/middleware.py (4 lines)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/migrations/0001_initial.py (2 lines)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/migrations/0003_alter_myuser_options_remove_myuser_name_and_more.py (6 lines)",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/nextauth_backend.py (13 lines)",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/tests/test_api_views.py (11 lines)",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Fix remaining E501 violations in fowldata/hunts/s3_manager.py (4 remaining lines)",
+    "status": "pending",
+    "id": "9"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/tests/ files - partially complete",
+    "status": "in_progress",
+    "id": "10"
+  }
+]

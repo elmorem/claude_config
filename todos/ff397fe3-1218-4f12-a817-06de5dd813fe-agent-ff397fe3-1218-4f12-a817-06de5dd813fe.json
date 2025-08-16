@@ -1,0 +1,222 @@
+[
+  {
+    "content": "Create new branch for backend test fixes",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Check last CI action run to identify 5 failing tests",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Run full backend test suite locally to identify all errors",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Use specialized agents to create comprehensive test fix plan",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Ensure reproducible test results across all environments",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix layer API view test isolation and deterministic conditions",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Run full backend test suite to verify all tests pass",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Fix location API view tests related to removed sharing functionality",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Fix database foreign key constraint issues preventing test cleanup",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Fix remaining CI test failures (LocationSerializer and factory issues)",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Fix final layer API isolation test failures with signal management",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Fix performance tests sharing model references and PostGIS constraints",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Fix performance security test SQL syntax and response structure issues",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Run full test suite 3 times consecutively without errors",
+    "status": "completed",
+    "id": "14"
+  },
+  {
+    "content": "Fix E2E test Docker build failure (both path and syntax issues)",
+    "status": "completed",
+    "id": "15"
+  },
+  {
+    "content": "Fix Playwright installation issue in E2E tests CI workflow",
+    "status": "completed",
+    "id": "16"
+  },
+  {
+    "content": "Fix last remaining Django test failure: test_large_payload_handling",
+    "status": "completed",
+    "id": "17"
+  },
+  {
+    "content": "Check CI logs and create systematic plan to fix E2E environment issues",
+    "status": "completed",
+    "id": "18"
+  },
+  {
+    "content": "Implement comprehensive E2E test fixes for DNS resolution and environment config",
+    "status": "completed",
+    "id": "19"
+  },
+  {
+    "content": "Run 3 consecutive successful E2E test runs locally to ensure reliability",
+    "status": "completed",
+    "id": "20"
+  },
+  {
+    "content": "Fix flaky test: 'should provide clear feedback during submission' to eliminate non-deterministic behavior",
+    "status": "completed",
+    "id": "21"
+  },
+  {
+    "content": "Monitor final CI run to verify all backend and E2E test fixes are working in production",
+    "status": "completed",
+    "id": "22"
+  },
+  {
+    "content": "Create comprehensive test reliability memory document for future reference",
+    "status": "completed",
+    "id": "23"
+  },
+  {
+    "content": "Fix critical E2E authentication issue by adding test user creation to CI pipeline",
+    "status": "completed",
+    "id": "24"
+  },
+  {
+    "content": "Verify the successful CI run and confirm all tests are actually passing",
+    "status": "completed",
+    "id": "25"
+  },
+  {
+    "content": "Fix the critical environment variable isolation issue preventing E2E test execution",
+    "status": "completed",
+    "id": "26"
+  },
+  {
+    "content": "Fix bash syntax error in validation script and wait for final CI run to verify complete success",
+    "status": "completed",
+    "id": "27"
+  },
+  {
+    "content": "Commit all remaining CI improvements and monitor final comprehensive test run",
+    "status": "completed",
+    "id": "28"
+  },
+  {
+    "content": "Investigate false green CI status and fix premium runner configuration issue",
+    "status": "completed",
+    "id": "29"
+  },
+  {
+    "content": "Identify and fix the actual Docker Compose failures in Test and Lint workflow",
+    "status": "completed",
+    "id": "30"
+  },
+  {
+    "content": "Monitor final successful CI runs to confirm all systems working properly",
+    "status": "completed",
+    "id": "31"
+  },
+  {
+    "content": "Fix Test and Lint workflow environment variable configuration causing container exit code 2",
+    "status": "completed",
+    "id": "32"
+  },
+  {
+    "content": "Create missing .env.ci file with proper CI environment configuration",
+    "status": "completed",
+    "id": "33"
+  },
+  {
+    "content": "Fix Docker Compose environment variable warnings and container startup issues",
+    "status": "completed",
+    "id": "34"
+  },
+  {
+    "content": "Fix end-to-end test issues in the Optimized CI Pipeline workflow",
+    "status": "completed",
+    "id": "35"
+  },
+  {
+    "content": "Commit all CI fixes and push to trigger comprehensive CI validation",
+    "status": "completed",
+    "id": "36"
+  },
+  {
+    "content": "Monitor both Test and Lint and Optimized CI Pipeline workflows to verify all fixes are working",
+    "status": "completed",
+    "id": "37"
+  },
+  {
+    "content": "Analyze current CI failures comprehensively using specialized subagents",
+    "status": "completed",
+    "id": "38"
+  },
+  {
+    "content": "Use CI log analyzer to understand exact failure points in both workflows",
+    "status": "completed",
+    "id": "39"
+  },
+  {
+    "content": "Use Docker specialist to analyze container and environment issues",
+    "status": "completed",
+    "id": "40"
+  },
+  {
+    "content": "Create comprehensive fix plan based on subagent analysis",
+    "status": "completed",
+    "id": "41"
+  },
+  {
+    "content": "Validate fix plan with different relevant subagent before implementation",
+    "status": "completed",
+    "id": "42"
+  },
+  {
+    "content": "Implement validated fixes for both CI workflows",
+    "status": "completed",
+    "id": "43"
+  },
+  {
+    "content": "Monitor final CI runs to ensure complete success",
+    "status": "in_progress",
+    "id": "44"
+  }
+]

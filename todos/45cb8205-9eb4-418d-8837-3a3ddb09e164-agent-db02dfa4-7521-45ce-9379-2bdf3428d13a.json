@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Identify the root cause of layer controls positioning issue",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Confirm layer controls should be positioned within Map component",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test basic positioning within Map component works",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Identify that LayerTogglePanel/LayerControlPanel components have rendering errors",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix LayerTogglePanel component rendering error",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test layer controls expansion and functionality",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Restore proper layer controls styling and functionality",
+    "status": "completed",
+    "id": "7"
+  }
+]

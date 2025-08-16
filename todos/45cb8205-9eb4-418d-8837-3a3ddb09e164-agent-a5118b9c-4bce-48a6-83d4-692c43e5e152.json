@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Fix ReportPrivacySettings component state synchronization with parent modal",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update CreateReportModal to properly handle simplified privacy options",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix ReportCard component null sharing_policy error",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Verify privacy settings visibility and rendering in the modal",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test the complete flow from dropdown selection to form submission",
+    "status": "completed",
+    "id": "5"
+  }
+]

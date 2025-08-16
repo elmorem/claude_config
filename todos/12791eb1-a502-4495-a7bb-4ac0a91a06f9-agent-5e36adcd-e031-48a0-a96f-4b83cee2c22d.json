@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Create GuestUserFlowTests.swift - Core guest account functionality tests",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create GuestResearchEndToEndTests.swift - Complete research flow testing for guest users",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create GuestDeviceSpecificTests.swift - Device compatibility testing across iPhone/iPad models",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create GuestPerformanceTests.swift - Performance benchmarking for guest operations",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create GuestUITests.swift - User interface testing for guest user flows",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create run_guest_user_tests.sh - Automated test execution script",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Verify guest account auto-creation works on all target devices",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Test complete research workflow for guest users (submission → progress → results → download)",
+    "status": "completed",
+    "id": "8"
+  }
+]

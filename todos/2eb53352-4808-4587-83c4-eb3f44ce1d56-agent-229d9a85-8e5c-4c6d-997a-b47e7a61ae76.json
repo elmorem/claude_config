@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create comprehensive Friendship model and manager tests",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create privacy level integration tests for Hunt, Location, Report visibility",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create Friendship API endpoint tests with authentication and permissions",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create privacy filtering tests for Hunt, Location, Report API endpoints",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create LayerViewSet API tests for user layer preferences",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create performance and security tests for query efficiency",
+    "status": "completed",
+    "id": "6"
+  }
+]

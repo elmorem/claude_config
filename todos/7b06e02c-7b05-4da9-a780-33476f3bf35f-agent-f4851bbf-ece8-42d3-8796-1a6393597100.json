@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Fix skipif conditions using 'true' string comparison instead of bool() conversion",
+    "status": "completed",
+    "id": "fix_skipif_conditions"
+  },
+  {
+    "content": "Fix UserLayerPreferenceSerializer test to check correct read-only fields",
+    "status": "completed",
+    "id": "fix_serializer_test"
+  },
+  {
+    "content": "Verify fixes work by running tests locally and check CI results",
+    "status": "pending",
+    "id": "verify_fixes"
+  },
+  {
+    "content": "Clear pytest cache files that might contain cached incorrect evaluations",
+    "status": "completed",
+    "id": "cleanup_cache"
+  }
+]

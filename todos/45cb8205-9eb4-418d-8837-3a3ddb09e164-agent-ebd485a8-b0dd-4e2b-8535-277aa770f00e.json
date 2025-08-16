@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Update ReportPrivacySettings component - change privacy options to exact 4 required and rename 'No One' to 'Only Me'",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Remove toggle complexity from CreateReportModal - eliminate showPrivacySettings state and toggle button",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Always show privacy settings section with clean UI structure",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Set proper default 'Everyone' selection that allows immediate submission",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Update form validation to allow submission with default selection",
+    "status": "completed",
+    "id": "5"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create Location Detail Modal with photo gallery",
+    "status": "in_progress",
+    "id": "B3"
+  },
+  {
+    "content": "Enhance LocationForm with photo upload support",
+    "status": "pending",
+    "id": "B4"
+  },
+  {
+    "content": "Write frontend component tests",
+    "status": "pending",
+    "id": "B6"
+  }
+]

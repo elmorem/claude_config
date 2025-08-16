@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Fix E501 violations in fowldata/hunts/tasks.py (28 violations)",
+    "status": "completed",
+    "id": "tasks-py"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/models.py (17 violations)",
+    "status": "completed",
+    "id": "models-py"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/tests/test_photo_upload_api.py (~34 violations → 17 remaining)",
+    "status": "in_progress",
+    "id": "photo-upload-api"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/tests/test_s3_manager.py (18 violations)",
+    "status": "completed",
+    "id": "s3-manager"
+  }
+]

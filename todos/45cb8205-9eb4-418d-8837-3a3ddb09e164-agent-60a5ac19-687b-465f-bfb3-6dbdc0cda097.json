@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix report modal conditional rendering issue - Make report modal conditional like hunt modal",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix location modal conditional rendering issue - Make location modal conditional and fix coordinate format",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test modal functionality - Verify that report and location modals now open correctly",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Commit the modal fixes to git",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Validate fix works by testing the actual modal buttons in browser",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Document the solution and provide summary to user",
+    "status": "completed",
+    "id": "6"
+  }
+]

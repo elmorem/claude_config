@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Create log rotation utility script",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update hooks to use log rotation",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test log rotation functionality",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Resolve git rebase conflicts",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Start PR#3: Mapbox Integration & Polish work",
+    "status": "in_progress",
+    "id": "5"
+  },
+  {
+    "content": "Fix failing layer toggle tests",
+    "status": "in_progress",
+    "id": "6"
+  },
+  {
+    "content": "Integrate LayerTogglePanel into Map component",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Create LayersIcon component",
+    "status": "pending",
+    "id": "8"
+  },
+  {
+    "content": "Run tests to verify implementation",
+    "status": "pending",
+    "id": "9"
+  }
+]

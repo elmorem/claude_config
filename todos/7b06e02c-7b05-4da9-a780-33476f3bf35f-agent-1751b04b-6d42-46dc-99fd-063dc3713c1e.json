@@ -1,0 +1,97 @@
+[
+  {
+    "content": "Read and fix syntax errors in test_friendship_api.py",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Read and fix syntax errors in test_friendship_models.py",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Read and fix syntax errors in test_hunt_api_views.py",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Read and fix syntax errors in test_hunt_serializers.py",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Read and fix syntax errors in test_layer_api.py",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Read and fix syntax errors in test_layer_api_views.py",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Read and fix syntax errors in test_layer_models.py",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Read and fix syntax errors in test_layer_serializers.py",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Read and fix syntax errors in test_location_api_views.py",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Read and fix syntax errors in test_location_models.py",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Read and fix syntax errors in test_location_performance.py",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Read and fix syntax errors in test_location_serializers_simple.py",
+    "status": "completed",
+    "id": "12"
+  },
+  {
+    "content": "Read and fix syntax errors in test_performance_security.py",
+    "status": "completed",
+    "id": "13"
+  },
+  {
+    "content": "Read and fix syntax errors in test_photo_display.py",
+    "status": "completed",
+    "id": "14"
+  },
+  {
+    "content": "Read and fix syntax errors in test_photo_upload_api.py",
+    "status": "completed",
+    "id": "15"
+  },
+  {
+    "content": "Read and fix syntax errors in test_photo_upload_integration.py",
+    "status": "completed",
+    "id": "16"
+  },
+  {
+    "content": "Read and fix syntax errors in test_privacy_api.py",
+    "status": "completed",
+    "id": "17"
+  },
+  {
+    "content": "Read and fix syntax errors in test_privacy_models.py",
+    "status": "completed",
+    "id": "18"
+  },
+  {
+    "content": "Read and fix syntax errors in test_s3_manager.py",
+    "status": "completed",
+    "id": "19"
+  }
+]

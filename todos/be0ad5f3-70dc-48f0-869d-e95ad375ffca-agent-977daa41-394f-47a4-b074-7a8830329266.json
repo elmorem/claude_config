@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create comprehensive model tests for Location and LocationShare models",
+    "status": "completed",
+    "id": "location-model-tests"
+  },
+  {
+    "content": "Create serializer tests for LocationSerializer, LocationCreateSerializer, and LocationShareSerializer",
+    "status": "completed",
+    "id": "location-serializer-tests"
+  },
+  {
+    "content": "Create API endpoint tests with authentication and permission checking",
+    "status": "completed",
+    "id": "location-api-tests"
+  },
+  {
+    "content": "Create signal tests for is_shared and photo_count updates",
+    "status": "completed",
+    "id": "location-signals-tests"
+  },
+  {
+    "content": "Create performance tests to prevent N+1 queries and test query optimization",
+    "status": "completed",
+    "id": "location-performance-tests"
+  }
+]

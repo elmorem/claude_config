@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Fix KeyError issues by updating tests to use correct fixture names - replace 'users[\"owner\"]' with 'test_users[\"owner\"]' or proper fixture",
+    "status": "completed",
+    "id": "fix_fixture_names"
+  },
+  {
+    "content": "Create sample fixtures (hunt, location, report) that use the correct user from friendship_setup instead of generic 'user' fixture",
+    "status": "completed",
+    "id": "fix_sample_fixtures"
+  },
+  {
+    "content": "Test the is_visible_to_user() methods directly to ensure they work correctly with proper user relationships",
+    "status": "completed",
+    "id": "verify_privacy_methods"
+  },
+  {
+    "content": "Run the complete test file to verify all privacy model tests pass",
+    "status": "completed",
+    "id": "run_full_test_suite"
+  }
+]

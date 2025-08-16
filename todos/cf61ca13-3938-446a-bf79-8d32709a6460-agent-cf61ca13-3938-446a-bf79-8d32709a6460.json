@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Root cause identified: Database constraint violations causing test hangs",
+    "status": "completed",
+    "id": "53"
+  },
+  {
+    "content": "Fix Location model tests with NULL location fields",
+    "status": "completed",
+    "id": "54"
+  },
+  {
+    "content": "Fix duplicate key constraint violations in tests",
+    "status": "pending",
+    "id": "55"
+  },
+  {
+    "content": "Check if migrations are needed for PostGIS constraints",
+    "status": "completed",
+    "id": "56"
+  },
+  {
+    "content": "Monitor CI with PostGIS coordinate fix",
+    "status": "completed",
+    "id": "57"
+  },
+  {
+    "content": "Skip large test files to isolate 70% hanging issue",
+    "status": "in_progress",
+    "id": "58"
+  },
+  {
+    "content": "Optimize database operations in tests",
+    "status": "pending",
+    "id": "59"
+  },
+  {
+    "content": "CRITICAL: Consolidate all pytest fixtures into conftest.py to eliminate redundant code",
+    "status": "pending",
+    "id": "60"
+  },
+  {
+    "content": "Consolidate frontend test mocks to eliminate redundancy and inconsistencies",
+    "status": "pending",
+    "id": "61"
+  }
+]

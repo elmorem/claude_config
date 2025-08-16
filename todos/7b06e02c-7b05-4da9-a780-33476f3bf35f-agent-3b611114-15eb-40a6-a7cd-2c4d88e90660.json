@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Fix BirdSerializer by adding species_display field",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Remove total_ducks and total_geese expectations from HuntSerializer tests",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix HuntSerializer read-only field names in tests",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Remove weather-related test functionality that was removed from models",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix bird creation validation issue in BirdSerializer tests",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Remove nested bird creation tests from HuntCreateSerializer (not supported)",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Remove bird replacement tests from HuntUpdateSerializer (not supported)",
+    "status": "completed",
+    "id": "7"
+  }
+]

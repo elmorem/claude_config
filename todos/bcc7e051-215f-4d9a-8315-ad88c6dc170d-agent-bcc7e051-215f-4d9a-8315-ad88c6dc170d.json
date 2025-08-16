@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix unused 'control' variable warning in Map.tsx",
+    "status": "pending",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Clean up duplicate package-lock.json files",
+    "status": "pending",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Review and test UI changes from recent commit",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  }
+]

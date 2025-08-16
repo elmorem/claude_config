@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix useCreateHunt mock to provide mutateAsync method instead of just mutate",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update tests to look for actual UI text instead of assumed upload progress text",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix weather API mock to prevent console errors during tests",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Wrap async operations in act() to prevent React warnings",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Update error message assertions to match actual UI error handling",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix timeout issue in upload progress test",
+    "status": "in_progress",
+    "id": "6"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Continue with PR #2 - Layer Toggle UI Implementation",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create LayerTogglePanel component",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create LayerToggleGroup component",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create LayerToggleItem component",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Integrate LayerTogglePanel into map interface",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Add UI component tests",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Run tests and validation",
+    "status": "in_progress",
+    "id": "7"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Investigate weather data permission denied error",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix continuous weather data unavailable notifications",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Ensure hunt creation works without weather data",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Verify Celery weather fetching functionality",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test duplicate notification fixes",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Configure WEATHERAPI_KEY for weather data",
+    "status": "in_progress",
+    "id": "6"
+  }
+]

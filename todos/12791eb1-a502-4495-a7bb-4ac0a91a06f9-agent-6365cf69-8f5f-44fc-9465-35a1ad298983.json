@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Implement automatic guest account creation in AuthManager.swift with proper credential generation and storage",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add guest number tracking and auto-incrementing system in UserDefaults",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Integrate automatic guest account creation on first app launch in DeepHomeworkApp.swift",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update guest UI indicators in MainTabView.swift to show request counter and upgrade prompts",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add upgrade guest to full account functionality and guest account cleanup",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test the complete guest account flow from first launch to upgrade",
+    "status": "completed",
+    "id": "6"
+  }
+]

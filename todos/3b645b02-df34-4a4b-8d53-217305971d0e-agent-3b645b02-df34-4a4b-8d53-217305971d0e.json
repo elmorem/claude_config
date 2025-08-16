@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Take a screenshot of deephomework.com using Puppeteer",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Change the background color to orange and take another screenshot",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

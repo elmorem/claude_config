@@ -1,0 +1,92 @@
+[
+  {
+    "content": "Research current Mapbox GL JS documentation for IControl interface",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Examine current Map.tsx implementation and custom controls",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement DrawControl using direct Mapbox GL JS IControl interface",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Implement CustomToolsControl using direct Mapbox GL JS IControl interface",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update Map.tsx to use new direct API controls instead of useControl hook",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Test controls positioning and styling",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Verify measurement functionality still works with Haversine formula",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Test custom tools callbacks (hunt/report/location buttons)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Use Puppeteer to test the implementation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Debug why custom controls are not appearing on the map",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Fix implementation issue preventing controls from being added to map",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Revert to simpler approach using onLoad callback from react-map-gl",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  },
+  {
+    "content": "Test final implementation with onLoad callback approach",
+    "status": "completed",
+    "priority": "high",
+    "id": "13"
+  },
+  {
+    "content": "Restore working useControl implementation to fix controls issue",
+    "status": "completed",
+    "priority": "high",
+    "id": "14"
+  },
+  {
+    "content": "Test restored implementation with working useControl approach",
+    "status": "completed",
+    "priority": "high",
+    "id": "15"
+  }
+]

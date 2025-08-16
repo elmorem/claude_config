@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create backend S3 photo manager tests",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create backend API photo upload endpoint tests",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create frontend PhotoUpload component tests",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create frontend photo API integration tests",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create end-to-end photo upload flow tests",
+    "status": "completed",
+    "id": "5"
+  }
+]

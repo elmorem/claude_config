@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Define product vision and goals",
+    "status": "pending",
+    "id": "1"
+  },
+  {
+    "content": "Identify target market and user personas",
+    "status": "pending",
+    "id": "2"
+  },
+  {
+    "content": "Plan core features and MVP scope",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Design technical architecture",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Create development roadmap",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Plan testing and quality assurance",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Outline deployment and launch strategy",
+    "status": "pending",
+    "id": "7"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Test login flow on iPad Air simulator",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test login flow on iPhone 16 Pro simulator",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test network error handling scenarios",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test keyboard interactions and input validation",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Test iPad layout responsiveness (portrait/landscape)",
+    "status": "pending",
+    "id": "5"
+  },
+  {
+    "content": "Test fresh install authentication flow",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Profile app performance and memory usage",
+    "status": "pending",
+    "id": "7"
+  },
+  {
+    "content": "Create archive build for TestFlight/App Store submission",
+    "status": "completed",
+    "id": "8"
+  }
+]

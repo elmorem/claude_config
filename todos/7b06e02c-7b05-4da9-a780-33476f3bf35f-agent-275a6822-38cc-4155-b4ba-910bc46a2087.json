@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Add is_shared filtering to LocationViewSet get_queryset method",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test the fix to ensure filtering works correctly",
+    "status": "completed",
+    "id": "2"
+  }
+]

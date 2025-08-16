@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Fix test_location_models.py - line 201 has extra closing parenthesis after creation",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix test_location_performance.py - missing closing parenthesis on line 22 and other syntax issues",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix test_photo_display.py - missing closing parenthesis on line 29",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix test_photo_upload_api.py - multiple missing closing parentheses throughout file",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix test_photo_upload_integration.py - missing closing parentheses in multiple locations",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix test_privacy_api.py - missing comma on line 328 after Bird.objects.create",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix test_privacy_models.py - missing closing parenthesis on line 131",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Fix test_s3_manager.py - missing closing parenthesis on line 587",
+    "status": "completed",
+    "id": "8"
+  }
+]

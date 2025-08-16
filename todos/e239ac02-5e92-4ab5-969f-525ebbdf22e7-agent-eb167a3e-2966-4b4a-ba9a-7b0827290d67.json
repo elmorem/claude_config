@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Navigate to localhost:3000 and take initial screenshot",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Login with test credentials mark@mail.com / 1@Tsgstp",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Click the 'Create New Hunt' tool on the map",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Select a location on the map to trigger hunt creation modal",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Monitor for continuous 'weather data unavailable' notifications",
+    "status": "in_progress",
+    "id": "5"
+  },
+  {
+    "content": "Test changing hunt date and location coordinates for weather error handling",
+    "status": "pending",
+    "id": "6"
+  },
+  {
+    "content": "Verify hunt creation still works without weather data",
+    "status": "pending",
+    "id": "7"
+  },
+  {
+    "content": "Confirm weather notifications are not spamming/repeating continuously",
+    "status": "pending",
+    "id": "8"
+  }
+]

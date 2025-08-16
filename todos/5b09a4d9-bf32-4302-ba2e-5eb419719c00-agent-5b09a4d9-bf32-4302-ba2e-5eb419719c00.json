@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Fix critical questions parsing - questions are in output field not content field",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix connection failed issue when interrupting research - submit button stays grey",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix images section to show 2-3 thumbnails per row instead of 1",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "App Store Connect setup and metadata",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "App Store review compliance",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Build and distribution setup",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Fix iPad Pro layout - app showing in sidebar instead of full screen",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Fix iPad tab bar to show at bottom instead of top",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Create successful App Store archive and upload",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Submit app for App Store review",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "10"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "content": "Set up development environment with Docker",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Refactor Hunt data model (remove 50 bird fields, create proper Bird model)",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Set up proper environment variable management with .env files",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Run GitHub workflow tests and linting commands and fix issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update project dependencies to latest versions",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Create new branch for Django REST API conversion",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Add Django REST Framework to dependencies",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Update Django settings for REST API",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Create API serializers for Hunt, Bird, Location, Weather models",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Create REST API viewsets and endpoints",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Add API authentication and permissions",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Test API endpoints",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  },
+  {
+    "content": "Create GitHub pull request for Django REST API",
+    "status": "completed",
+    "priority": "high",
+    "id": "13"
+  },
+  {
+    "content": "Create Next.js frontend application",
+    "status": "pending",
+    "priority": "high",
+    "id": "14"
+  },
+  {
+    "content": "Implement basic CRUD operations in Next.js",
+    "status": "pending",
+    "priority": "high",
+    "id": "15"
+  },
+  {
+    "content": "Implement Map Integration with Mapbox",
+    "status": "pending",
+    "priority": "medium",
+    "id": "16"
+  },
+  {
+    "content": "Complete Weather Integration",
+    "status": "pending",
+    "priority": "medium",
+    "id": "17"
+  },
+  {
+    "content": "Add Data Visualization features",
+    "status": "pending",
+    "priority": "low",
+    "id": "18"
+  }
+]

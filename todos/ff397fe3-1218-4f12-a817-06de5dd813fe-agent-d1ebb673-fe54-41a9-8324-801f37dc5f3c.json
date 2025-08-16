@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix LocationSerializer response structure to match test expectations",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add coordinate validation to LocationSerializer",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Remove or adapt sharing-related tests since LocationShare was removed",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix action-aware queryset behavior for update/delete operations",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Update test expectations to match current privacy-based system",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix remaining edge case tests that reference removed sharing functionality",
+    "status": "completed",
+    "id": "6"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Analyze existing frontend architecture for layer management integration",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Set up TanStack Query configuration for layer state management",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create layer API service hooks using TanStack Query",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement layer query hooks (useLayerPreferences, useLayerStats)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Implement layer mutation hooks (useCreateLayer, useUpdateLayer, useBulkToggle)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create layer state context/provider for global layer state",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Add optimistic updates for layer visibility changes",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Test the layer state management integration",
+    "status": "in_progress",
+    "id": "8"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Update auth.ts configuration with NextAuth v5 beta settings",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix nginx configuration with proper proxy headers",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update middleware for secure cookie handling",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add environment variable validation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Create comprehensive auth tests",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Add Docker health checks",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Run tests and linting to ensure stability",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  }
+]

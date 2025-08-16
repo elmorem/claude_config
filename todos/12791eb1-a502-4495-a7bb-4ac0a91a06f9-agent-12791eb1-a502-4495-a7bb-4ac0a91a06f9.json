@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Create App Store build with proper configuration",
+    "status": "completed",
+    "id": "create_app_store_build"
+  },
+  {
+    "content": "Archive the app for distribution",
+    "status": "completed",
+    "id": "archive_app"
+  },
+  {
+    "content": "Upload to App Store Connect",
+    "status": "completed",
+    "id": "upload_to_app_store"
+  }
+]

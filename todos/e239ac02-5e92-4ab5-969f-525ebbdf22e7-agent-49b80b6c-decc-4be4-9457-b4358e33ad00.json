@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Click Create New Hunt tool (🎯 icon)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Select location on map to trigger hunt creation modal",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fill in hunt date and observe weather notification behavior",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test changing date and coordinates for weather notification throttling",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Verify hunt creation works even without weather data",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Document weather notification behavior with screenshots",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "CRITICAL: Fix duplicate weather notifications (3 identical notifications found)",
+    "status": "pending",
+    "id": "7"
+  }
+]

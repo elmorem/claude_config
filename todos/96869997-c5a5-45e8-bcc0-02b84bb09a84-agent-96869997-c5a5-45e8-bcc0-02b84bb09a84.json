@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Fix nested comment depth limit test",
+    "status": "completed",
+    "id": "15"
+  },
+  {
+    "content": "Fix performance test failures - all 8/8 now passing",
+    "status": "completed",
+    "id": "16"
+  },
+  {
+    "content": "Ensure all 345 tests pass",
+    "status": "completed",
+    "id": "17"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Analyze and diagnose CI environment variable isolation issues",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix CI workflow environment variable export and propagation",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Update docker-compose.ci.yaml for proper environment handling",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add comprehensive service readiness verification with test user validation",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create environment validation system with detailed debugging",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Implement robust CI debugging and logging infrastructure",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Add Playwright configuration optimizations for CI environment",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Create environment sync verification script",
+    "status": "completed",
+    "id": "8"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Add guest account properties and generation logic to AuthManager",
+    "status": "in_progress",
+    "id": "guest-1"
+  },
+  {
+    "content": "Implement automatic guest account creation function in AuthManager",
+    "status": "pending",
+    "id": "guest-2"
+  },
+  {
+    "content": "Add guest account registration support to APIService",
+    "status": "pending",
+    "id": "guest-3"
+  },
+  {
+    "content": "Add Try as Guest button to LoginView with automatic account creation",
+    "status": "pending",
+    "id": "guest-4"
+  },
+  {
+    "content": "Update MainTabView to show guest status and request limits",
+    "status": "pending",
+    "id": "guest-5"
+  },
+  {
+    "content": "Test guest account creation and research functionality",
+    "status": "pending",
+    "id": "guest-6"
+  }
+]

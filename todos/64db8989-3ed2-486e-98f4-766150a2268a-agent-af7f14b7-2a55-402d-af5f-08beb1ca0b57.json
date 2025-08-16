@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Fix E501 violations in fowldata/hunts/api_views.py (19 violations)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/s3_manager.py (16 violations)",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/hunts/tests/ directory (all test files with ~150 violations)",
+    "status": "in_progress",
+    "id": "3"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/accounts/tests/ directory (29 violations)",
+    "status": "pending",
+    "id": "4"
+  },
+  {
+    "content": "Fix E501 violations in fowldata/fowldata/settings.py (6 violations)",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix remaining E501 violations in other files (accounts/urls.py, conftest.py, etc.)",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix remaining E501 violations in models, tasks, and other core files",
+    "status": "pending",
+    "id": "7"
+  },
+  {
+    "content": "Verify all E501 violations are fixed and CI compliance achieved",
+    "status": "pending",
+    "id": "8"
+  }
+]

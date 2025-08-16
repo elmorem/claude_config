@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Analyze performance test failures in test_location_performance.py (10 failing tests)",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix location serializer validation test in test_location_serializers_simple.py",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix signal performance test in test_location_signals.py",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix location model constraint tests in test_location_models.py (2 ERROR cases)",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Run comprehensive test of all originally failing tests",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix performance test mixin inheritance and lazy evaluation issues",
+    "status": "completed",
+    "id": "6"
+  }
+]

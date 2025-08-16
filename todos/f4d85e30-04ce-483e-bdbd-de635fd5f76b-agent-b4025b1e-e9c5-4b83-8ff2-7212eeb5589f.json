@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Identify and fix critical configuration issue in NextAuth route handler",
+    "status": "completed",
+    "priority": "high",
+    "id": "auth-diagnosis-1"
+  },
+  {
+    "content": "Analyze production vs development environment differences",
+    "status": "completed",
+    "priority": "high",
+    "id": "auth-diagnosis-2"
+  },
+  {
+    "content": "Review Prisma schema compatibility with NextAuth v5 database sessions",
+    "status": "completed",
+    "priority": "medium",
+    "id": "auth-diagnosis-3"
+  },
+  {
+    "content": "Check cookie domain and security settings for production",
+    "status": "completed",
+    "priority": "medium",
+    "id": "auth-diagnosis-4"
+  },
+  {
+    "content": "Verify OAuth provider callback URL configurations",
+    "status": "completed",
+    "priority": "medium",
+    "id": "auth-diagnosis-5"
+  },
+  {
+    "content": "Generate Prisma client to ensure database schema changes are applied",
+    "status": "completed",
+    "priority": "high",
+    "id": "auth-diagnosis-6"
+  }
+]

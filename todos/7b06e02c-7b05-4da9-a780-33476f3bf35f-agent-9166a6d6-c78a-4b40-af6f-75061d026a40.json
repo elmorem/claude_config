@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix field name mismatches: Change 'harvested_at' to 'harvest_time' in test data and assertions",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Remove or fix hunt-stats endpoint test since hunt-stats URL doesn't exist",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix hunt-add-bird test to use standard Bird API endpoint instead of custom action",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Fix hunt-remove-bird test to use standard Bird delete endpoint instead of custom action",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix response.data['id'] access - HuntCreateSerializer doesn't return id field",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Remove debug print statements added during investigation",
+    "status": "completed",
+    "id": "6"
+  }
+]

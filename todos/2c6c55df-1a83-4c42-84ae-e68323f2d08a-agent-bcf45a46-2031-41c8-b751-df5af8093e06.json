@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Analyze Django CI test hanging issue - investigate performance tests, threading, and database transactions",
+    "status": "completed",
+    "id": "test_analysis_1"
+  },
+  {
+    "content": "Create targeted recommendations to fix hanging tests based on evidence from recent commits",
+    "status": "completed",
+    "id": "test_analysis_2"
+  },
+  {
+    "content": "Identify specific test patterns causing indefinite blocking in CI environment",
+    "status": "completed",
+    "id": "test_analysis_3"
+  }
+]

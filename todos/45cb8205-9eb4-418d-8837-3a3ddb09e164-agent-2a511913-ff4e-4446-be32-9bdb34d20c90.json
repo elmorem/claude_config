@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Restore full LayerTogglePanel functionality to replace the simplified version",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Integrate LayerToggleGroup components for different layer types (hunt-data, location-data, system-data, user-zones)",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Remove 'simplified' designation and restore 'Map Layers' title",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Test layer controls functionality and verify toggles work properly",
+    "status": "completed",
+    "id": "4"
+  }
+]

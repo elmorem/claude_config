@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Review Map.tsx component code to understand control implementation",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Examine main page.tsx to see how Map component is being used",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Research current Mapbox GL JS and react-map-gl documentation for proper control syntax",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Use Puppeteer to navigate to localhost:3000 and take screenshots",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Identify control display issues and provide specific code fixes",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

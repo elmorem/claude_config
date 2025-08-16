@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix Registration Success State Not Reaching Client - useActionState not updating formState",
+    "status": "completed",
+    "priority": "high",
+    "id": "auth-issue-1"
+  },
+  {
+    "content": "Fix Credentials Login Creates No Session - authorize function never called",
+    "status": "completed",
+    "priority": "high",
+    "id": "auth-issue-2"
+  },
+  {
+    "content": "Analyze current authentication flow and identify root causes",
+    "status": "completed",
+    "priority": "high",
+    "id": "analyze-issues"
+  },
+  {
+    "content": "Test authentication fixes in development environment",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "test-fixes"
+  },
+  {
+    "content": "Rebuild container to see changes in frontend",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "rebuild-container"
+  }
+]

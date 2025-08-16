@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Fix skipif conditions using string comparison",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix serializer test KeyError for 'user' field",
+    "status": "in_progress",
+    "id": "2"
+  },
+  {
+    "content": "Test fixes and verify CI passes",
+    "status": "pending",
+    "id": "3"
+  }
+]

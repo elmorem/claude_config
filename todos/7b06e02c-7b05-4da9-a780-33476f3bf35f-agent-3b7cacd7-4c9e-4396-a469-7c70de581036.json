@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Analyze layer API test failures and root causes",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Create test isolation strategy document",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix fixture design for proper cleanup",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Implement database transaction management fixes",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Create example test cases with proper isolation",
+    "status": "completed",
+    "id": "5"
+  }
+]

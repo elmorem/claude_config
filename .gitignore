@@ -1,0 +1,13 @@
+*.key
+  *.token
+  *secret*
+  *password*
+  .env
+  /projects
+  /todos
+  /shell-snapshots
+  /ide
+  /statsig
+
+
+

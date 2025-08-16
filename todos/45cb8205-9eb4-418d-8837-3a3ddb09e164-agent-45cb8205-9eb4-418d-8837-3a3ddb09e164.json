@@ -1,0 +1,12 @@
+[
+  {
+    "content": "Complete full rebuild and verify all functionality",
+    "status": "completed",
+    "id": "59"
+  },
+  {
+    "content": "Fix MapToolsControl component rendering issue - controls not appearing on map",
+    "status": "completed",
+    "id": "60"
+  }
+]

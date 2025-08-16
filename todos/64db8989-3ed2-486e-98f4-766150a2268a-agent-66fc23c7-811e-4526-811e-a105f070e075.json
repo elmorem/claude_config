@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Create Toast component with multiple types, animations, and accessibility features",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Implement ToastContext and ToastProvider for global state management",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create useToast hook for easy toast triggering throughout the app",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add ToastProvider to layout.tsx for app-wide availability",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Integrate toast notifications into CreateHuntModal for hunt creation feedback",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Add weather API error/loading toasts to hunt creation workflow",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Test toast system functionality and accessibility features",
+    "status": "completed",
+    "id": "7"
+  }
+]

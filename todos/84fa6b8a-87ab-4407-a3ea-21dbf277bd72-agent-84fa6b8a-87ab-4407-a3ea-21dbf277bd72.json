@@ -1,0 +1,77 @@
+[
+  {
+    "content": "Create new branch for photo upload E2E testing",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Analyze existing photo upload test coverage",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create comprehensive E2E tests for photo upload flow",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Debug authentication issue preventing signin",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Fix Mapbox access token configuration",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test photo upload in hunt creation modal",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix flake8 virtual environment exclusions",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Create PR with comprehensive test coverage",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Commit all remaining files and documentation",
+    "status": "completed",
+    "id": "9"
+  },
+  {
+    "content": "Monitor CI pipeline results",
+    "status": "completed",
+    "id": "10"
+  },
+  {
+    "content": "Merge PR successfully",
+    "status": "completed",
+    "id": "11"
+  },
+  {
+    "content": "Debug application error during hunt creation",
+    "status": "pending",
+    "id": "12"
+  },
+  {
+    "content": "Fix hunt form submission with photos",
+    "status": "pending",
+    "id": "13"
+  },
+  {
+    "content": "Test complete hunt creation to hunt details flow",
+    "status": "pending",
+    "id": "14"
+  },
+  {
+    "content": "Validate uploaded photos appear correctly in hunt details",
+    "status": "pending",
+    "id": "15"
+  }
+]

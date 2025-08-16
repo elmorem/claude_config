@@ -1,0 +1,20 @@
+{
+  "scm.defaultViewMode": "tree",
+  "git.showUntracked": false,
+  "scm.showIncomingChanges": "never",
+  "scm.showOutgoingChanges": "never",
+  "files.exclude": {
+    "**/projects/**": true,
+    "**/todos/**": true,
+    "**/statsig/**": true,
+    "**/shell-snapshots/**": true,
+    "**/ide/**": true
+  },
+  "search.exclude": {
+    "**/projects/**": true,
+    "**/todos/**": true,
+    "**/statsig/**": true,
+    "**/shell-snapshots/**": true,
+    "**/ide/**": true
+  }
+}

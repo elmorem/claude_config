@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Run frontend tests to verify layer toggle changes work correctly",
+    "status": "in_progress",
+    "id": "1"
+  },
+  {
+    "content": "Check if backend is running and API endpoints are accessible",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test the Map component integration with layer controls",
+    "status": "pending",
+    "id": "3"
+  },
+  {
+    "content": "Run linting and type checking",
+    "status": "pending",
+    "id": "4"
+  }
+]

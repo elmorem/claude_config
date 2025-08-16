@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Fix Location model tests - replace 'point' references with 'location' field",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Remove or fix LocationShare model tests since this model was removed from models.py",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix fixture issues - ensure proper User objects are passed instead of strings",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Update test database indexes to match actual model Meta definitions",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Run targeted test to verify location model fixes work",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix remaining failing test categories systematically",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Run full test suite to confirm 100% pass rate",
+    "status": "completed",
+    "id": "7"
+  }
+]

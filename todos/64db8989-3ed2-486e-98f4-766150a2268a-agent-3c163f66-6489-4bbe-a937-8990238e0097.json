@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Add custom weather fetching endpoint to Django WeatherViewSet",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Update Next.js weather API route with improved error handling and logging",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test the complete weather API authentication flow",
+    "status": "completed",
+    "id": "3"
+  }
+]
