@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Review last 3 CI runs to identify failure patterns",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Analyze specific test failures and errors",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create plan to fix identified CI issues",
+    "status": "completed",
+    "id": "3"
+  }
+]
