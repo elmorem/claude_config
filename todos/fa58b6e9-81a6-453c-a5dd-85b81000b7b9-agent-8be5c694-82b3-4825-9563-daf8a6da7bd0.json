@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Examine CI workflow files to understand E2E setup process",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Analyze create_test_user Django management command",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Deep dive into E2E authentication flow and helpers",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Examine Django authentication backend integration",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Identify container/service interaction issues",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Analyze database state and timing issues",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Provide root cause analysis and specific fixes",
+    "status": "completed",
+    "id": "7"
+  }
+]

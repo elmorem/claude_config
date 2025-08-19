@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Analyze Django test failures - username generation with random suffixes",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Examine test isolation and database state management",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Investigate Docker build failure in Test & Lint workflow",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Provide root cause analysis and fix strategy",
+    "status": "in_progress",
+    "id": "4"
+  }
+]

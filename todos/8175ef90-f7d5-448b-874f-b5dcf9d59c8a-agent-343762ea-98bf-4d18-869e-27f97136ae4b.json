@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix UserLayerPreference test using non-unique layer_id that causes duplicates in parallel tests",
+    "status": "completed",
+    "id": "fix-layer-test"
+  },
+  {
+    "content": "Update pytest configuration to handle parallel test isolation better",
+    "status": "completed",
+    "id": "fix-pytest-config"
+  },
+  {
+    "content": "Review and fix friendship test fixtures that might create duplicate relationships",
+    "status": "completed",
+    "id": "fix-friendship-tests"
+  },
+  {
+    "content": "Add database transaction isolation to prevent test data bleeding",
+    "status": "completed",
+    "id": "add-transaction-isolation"
+  },
+  {
+    "content": "Test the fixes by running a subset of problematic tests",
+    "status": "completed",
+    "id": "test-fixes"
+  },
+  {
+    "content": "Document the changes made for the CI constraint issue resolution",
+    "status": "completed",
+    "id": "document-changes"
+  }
+]
