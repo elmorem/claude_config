@@ -4,6 +4,11 @@
   "feedbackSurveyState": {
     "lastShownTime": 1754065868264
   },
+    "statusLine": {
+    "type": "command",
+    "command": "uv run .claude/status_lines/status_line.py",
+    "padding": 0
+  },
   "mcpServers": {
     "exa": {
       "command": "docker",
