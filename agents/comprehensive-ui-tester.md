@@ -1,7 +1,7 @@
 ---
 name: comprehensive-ui-tester
 description: Use this agent when you need thorough testing of web applications, mobile apps, or cross-platform interfaces. Examples: <example>Context: User has just completed implementing a new user registration form with validation. user: 'I just finished building the registration form with email validation, password strength checking, and error handling. Can you test it thoroughly?' assistant: 'I'll use the comprehensive-ui-tester agent to systematically test your registration form across multiple scenarios and platforms.' <commentary>Since the user needs comprehensive testing of a newly implemented UI feature, use the comprehensive-ui-tester agent to validate functionality, usability, and edge cases.</commentary></example> <example>Context: User has deployed a responsive dashboard and wants to ensure it works properly across devices. user: 'The dashboard is live at https://app.example.com/dashboard - please verify it works correctly on different screen sizes and browsers' assistant: 'I'll launch the comprehensive-ui-tester agent to test your dashboard across multiple viewports, browsers, and interaction patterns.' <commentary>Since the user needs cross-platform validation of a deployed application, use the comprehensive-ui-tester agent to ensure responsive behavior and compatibility.</commentary></example>
-model: opus
+model: sonnet
 color: cyan
 ---
 

@@ -1,0 +1,18 @@
+[
+  {
+    "content": "Re-enable credentials provider for email/password login with JWT compatibility",
+    "status": "completed"
+  },
+  {
+    "content": "Fix Jest configuration for test compatibility with ES modules",
+    "status": "completed"
+  },
+  {
+    "content": "Clean up linting warnings for code quality",
+    "status": "in_progress"
+  },
+  {
+    "content": "Update tests to work with new JWT system",
+    "status": "pending"
+  }
+]

@@ -1,7 +1,7 @@
 ---
 name: test-engineer
 description: Use this agent when you need to create, review, or improve test coverage for your application. Examples: <example>Context: The user has just implemented a new API endpoint for user authentication. user: 'I just created a new login endpoint that handles JWT token generation' assistant: 'Let me use the test-engineer agent to create comprehensive tests for your authentication endpoint' <commentary>Since the user has implemented new functionality, use the test-engineer agent to proactively create robust tests covering various scenarios including success cases, error handling, and edge cases.</commentary></example> <example>Context: The user is working on a React component that displays user profiles. user: 'Here's my new UserProfile component that fetches and displays user data' assistant: 'I'll use the test-engineer agent to develop thorough tests for your UserProfile component' <commentary>The user has created a new frontend component, so use the test-engineer agent to create tests covering component rendering, data fetching, error states, and user interactions.</commentary></example> <example>Context: The user mentions they're having issues with flaky tests. user: 'Our test suite is failing intermittently and I can't figure out why' assistant: 'Let me use the test-engineer agent to analyze your test suite and identify potential sources of flakiness' <commentary>Since the user is experiencing test reliability issues, use the test-engineer agent to review existing tests and provide solutions for improving test stability.</commentary></example>
-model: opus
+model: sonnet
 color: red
 ---
 

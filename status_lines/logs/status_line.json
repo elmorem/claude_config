@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2025-08-19T16:23:17.421389",
+    "input_data": {
+      "model": {
+        "display_name": "Claude Opus 4.1"
+      },
+      "workspace": {
+        "current_dir": "/Users/markelmore/_code/fowldata"
+      },
+      "version": "1.2.3",
+      "messages": [
+        {
+          "role": "user",
+          "content": "i want you to make changes, but list me what i will see in my status line and what else i might add"
+        },
+        {
+          "role": "assistant",
+          "content": "I will help you configure your status line..."
+        },
+        {
+          "role": "user",
+          "content": "yes. add: 1. docker status 2. Test status 3. Django status 4. Environment indicator 5. current prompt 6. model 7. previous prompt"
+        }
+      ]
+    },
+    "status_line_output": "\u001b[36m[Claude Opus 4.1]\u001b[0m | \u001b[93m\ud83d\udfe2\u001b[0m | \u001b[34m\ud83d\udcc1 fowldata\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b16\u001b[0m | \u001b[91m\ud83d\udd34\u001b[0m | \u001b[92m\u2753\u001b[0m | \u001b[95m\ud83d\udcac yes. add: 1. docker status ...\u001b[0m | \u001b[90m\u23ee i want you to mak...\u001b[0m | \u001b[90mv1.2.3\u001b[0m"
+  }
+]

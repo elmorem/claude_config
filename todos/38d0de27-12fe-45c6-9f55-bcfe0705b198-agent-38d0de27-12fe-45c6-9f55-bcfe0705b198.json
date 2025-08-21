@@ -1,0 +1,17 @@
+[
+  {
+    "content": "Research available MCP servers for ref-tools and exa",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add missing MCP servers to global settings.json",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Test the updated MCP server configuration",
+    "status": "completed",
+    "id": "3"
+  }
+]

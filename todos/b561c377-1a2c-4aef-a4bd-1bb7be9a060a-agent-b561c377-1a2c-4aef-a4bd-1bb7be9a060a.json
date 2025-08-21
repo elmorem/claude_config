@@ -1,0 +1,42 @@
+[
+  {
+    "content": "Update clustering tests to match new clustering API",
+    "status": "completed",
+    "id": "23"
+  },
+  {
+    "content": "Add comprehensive test coverage for viewport culling",
+    "status": "pending",
+    "id": "24"
+  },
+  {
+    "content": "Test performance optimizations with real user scenarios",
+    "status": "pending",
+    "id": "25"
+  },
+  {
+    "content": "Manual testing of map layers and visual appearance",
+    "status": "in_progress",
+    "id": "26"
+  },
+  {
+    "content": "Fix Docker network configuration for frontend-backend communication",
+    "status": "completed",
+    "id": "27"
+  },
+  {
+    "content": "Document Docker networking configuration to prevent future issues",
+    "status": "completed",
+    "id": "28"
+  },
+  {
+    "content": "Rebuild frontend container to apply environment changes",
+    "status": "completed",
+    "id": "29"
+  },
+  {
+    "content": "Create workflow summary and restore commands",
+    "status": "completed",
+    "id": "30"
+  }
+]

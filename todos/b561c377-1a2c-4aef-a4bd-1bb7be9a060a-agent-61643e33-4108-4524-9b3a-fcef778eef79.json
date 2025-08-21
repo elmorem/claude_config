@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Fix double PrivacyLayerProvider wrapping issue",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add comprehensive logging to debug data flow",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Verify API endpoints are being called correctly",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Check authentication token is being sent",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test the fix and verify data loads",
+    "status": "in_progress",
+    "id": "5"
+  }
+]

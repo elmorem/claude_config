@@ -1,7 +1,7 @@
 ---
 name: ci-log-analyzer
 description: Use this agent when you need to analyze CI/CD logs, debug failed GitHub Actions workflows, troubleshoot discrepancies between local and CI environments, or diagnose build/test failures in continuous integration pipelines. This includes reviewing error messages, identifying root causes of failures, and proposing solutions for CI-specific issues like environment differences, dependency conflicts, or timing-related problems. <example>Context: The user has a failing GitHub Actions workflow and needs help understanding why tests pass locally but fail in CI. user: 'My tests are passing locally but failing in GitHub Actions. Here's the log output...' assistant: 'I'll use the ci-log-analyzer agent to review these CI logs and identify the discrepancy between your local and CI environments.' <commentary>Since the user is dealing with CI/CD failures and needs log analysis, use the ci-log-analyzer agent to diagnose the issue and propose solutions.</commentary></example> <example>Context: The user encounters a mysterious build failure in their GitHub Actions workflow. user: 'The build step in my GitHub Actions workflow is failing with this error message...' assistant: 'Let me analyze these CI logs using the ci-log-analyzer agent to identify the root cause and suggest a fix.' <commentary>The user needs help with CI build failures, so use the ci-log-analyzer agent to analyze the logs and provide solutions.</commentary></example>
-model: opus
+model: sonnet
 color: orange
 ---
 

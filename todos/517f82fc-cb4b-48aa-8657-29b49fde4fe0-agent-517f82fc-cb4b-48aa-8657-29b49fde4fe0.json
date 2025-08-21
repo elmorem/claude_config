@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Add enhanced debug tools for layer rendering",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Test LayerRenderingDebug component on map",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Fix Mapbox style loading race condition",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Verify data rendering after style loading fix",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Investigate 403 Forbidden errors on GeoJSON API endpoints",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Check JWT token authentication flow between frontend and backend",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Fix invalid Django token being sent by frontend",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Test authentication with valid token",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Verify privacy layers are now visible on map",
+    "status": "in_progress",
+    "id": "9"
+  }
+]

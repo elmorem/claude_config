@@ -1,0 +1,37 @@
+[
+  {
+    "content": "Add comprehensive logging to useUnifiedMapData hook",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Add enhanced debugging to PrivacyLayerContext",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Create debug page for testing map data loading",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add request interceptor logging to API client",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Add comprehensive error handling and logging to API calls",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Test authentication flow and verify token passing",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Create debugging instructions for user",
+    "status": "completed",
+    "id": "7"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Create comprehensive console debugging for control rendering lifecycle",
+    "status": "completed",
+    "id": "debug-mapbox-controls-1"
+  },
+  {
+    "content": "Build visual debug overlay panel showing control status and DOM inspection",
+    "status": "completed",
+    "id": "debug-mapbox-controls-2"
+  },
+  {
+    "content": "Inspect CSS conflicts and container positioning issues",
+    "status": "completed",
+    "id": "debug-mapbox-controls-3"
+  },
+  {
+    "content": "Create fallback custom controls as backup solution",
+    "status": "completed",
+    "id": "debug-mapbox-controls-4"
+  },
+  {
+    "content": "Add browser console error investigation and map initialization monitoring",
+    "status": "completed",
+    "id": "debug-mapbox-controls-5"
+  }
+]

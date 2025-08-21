@@ -1,13 +1,13 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
-  "model": "opusplan",
+  "model": "sonnet",
+  "statusLine": {
+    "type": "command",
+    "command": "python3 /Users/markelmore/.claude/status_lines/status_line.py",
+    "padding": 0
+  },
   "feedbackSurveyState": {
     "lastShownTime": 1754065868264
-  },
-    "statusLine": {
-    "type": "command",
-    "command": "uv run .claude/status_lines/status_line.py",
-    "padding": 0
   },
   "mcpServers": {
     "exa": {
@@ -54,6 +54,26 @@
         "-i",
         "mcp/dockerhub"
       ]
+    },
+    "ref-tools": {
+      "command": "npx",
+      "args": [
+        "ref-tools-mcp@latest"
+      ],
+      "env": {
+        "REF_API_KEY": "813ffbd3-e0c8-44f1-908d-84595d7d134d"
+      }
+    },
+    "exa-web-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "exa-mcp-server",
+        "--tools=web_search_exa,company_research,crawling"
+      ],
+      "env": {
+        "EXA_API_KEY": "813ffbd3-e0c8-44f1-908d-84595d7d134d"
+      }
     }
   }
 }

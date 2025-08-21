@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Review Mapbox documentation and FowlData layer implementation",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Analyze current layer functionality and data loading",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Identify why layers show 0/0 - investigate data loading issues",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Create sample data to test layer functionality",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Verify layer controls work with test data",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Fix JWT session corruption causing 403 errors in layer panel",
+    "status": "completed",
+    "id": "6"
+  },
+  {
+    "content": "Test fresh authentication after backend fixes",
+    "status": "completed",
+    "id": "7"
+  },
+  {
+    "content": "Fix API client token sync issue - old localStorage token causing 403s",
+    "status": "completed",
+    "id": "8"
+  },
+  {
+    "content": "Investigate layer panel expansion and data display issues",
+    "status": "completed",
+    "id": "9"
+  }
+]

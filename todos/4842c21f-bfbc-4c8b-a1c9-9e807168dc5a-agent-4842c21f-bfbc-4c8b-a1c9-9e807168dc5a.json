@@ -1,0 +1,27 @@
+[
+  {
+    "content": "Research existing UI/frontend agent patterns and capabilities",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Design comprehensive prompt covering React, TypeScript, and Next.js expertise",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Include specific tool access and integration capabilities",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Add examples and use cases for the agent",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Review and optimize the final prompt",
+    "status": "completed",
+    "id": "5"
+  }
+]

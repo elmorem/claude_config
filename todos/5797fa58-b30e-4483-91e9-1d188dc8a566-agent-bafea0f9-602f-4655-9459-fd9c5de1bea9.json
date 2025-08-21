@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Analyze why hunts and locations layers aren't rendering while reports are",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Fix HuntGeoJSONSerializer to return proper FeatureCollection format",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Replace GeoJsonMap with UnifiedMap on main page",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Rebuild Docker container to apply backend changes",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Test the complete data flow from API to map rendering",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Verify all layer controls are working properly",
+    "status": "completed",
+    "id": "6"
+  }
+]
