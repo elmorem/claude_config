@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Monitor CI status every 3 minutes for failures",
+    "status": "completed"
+  },
+  {
+    "content": "Fix CI Django test failures - JWT environment setup issues",
+    "status": "completed"
+  },
+  {
+    "content": "Fix Test and Lint workflow JWT configuration",
+    "status": "completed"
+  },
+  {
+    "content": "Fix Django test assertion error",
+    "status": "completed"
+  },
+  {
+    "content": "Fix frontend build TypeScript error in weather API",
+    "status": "completed"
+  },
+  {
+    "content": "Fix TypeScript linting errors (@typescript-eslint/no-explicit-any)",
+    "status": "completed"
+  },
+  {
+    "content": "Fix both CI workflow failures - Docker build timeouts and E2E service startup",
+    "status": "completed"
+  },
+  {
+    "content": "Remove all legacy djangoToken references causing TypeScript errors",
+    "status": "completed"
+  },
+  {
+    "content": "Successfully achieved first passing CI run!",
+    "status": "completed"
+  },
+  {
+    "content": "Achieved consistent CI success - Two Test and Lint workflows passing!",
+    "status": "completed"
+  },
+  {
+    "content": "Fix E2E test authentication by adding JWT configuration to docker-compose.e2e.yaml",
+    "status": "completed"
+  },
+  {
+    "content": "Fix test user authentication command using wrong field (email vs username)",
+    "status": "completed"
+  },
+  {
+    "content": "MAJOR SUCCESS: Test and Lint workflow now consistently passing with Django tests fixed!",
+    "status": "completed"
+  },
+  {
+    "content": "Fix E2E authentication issue - login API was using email instead of username for authenticate()",
+    "status": "completed"
+  },
+  {
+    "content": "Fix local Docker environment JWT configuration for testing",
+    "status": "completed"
+  },
+  {
+    "content": "Add cache-busting to force Docker image rebuilds in CI",
+    "status": "completed"
+  },
+  {
+    "content": "Test new CI run with cache-busting to verify E2E authentication fixes work",
+    "status": "in_progress"
+  },
+  {
+    "content": "Next PR: Create user-facing authentication guides for JWT migration changes",
+    "status": "pending"
+  }
+]
