@@ -1,0 +1,30 @@
+[
+  {
+    "content": "Document investigation findings in comprehensive report",
+    "status": "completed"
+  },
+  {
+    "content": "Deep dive into Mapbox GL layer registration verification",
+    "status": "completed"
+  },
+  {
+    "content": "Add detailed visibility logging to hunt layer filtering",
+    "status": "completed"
+  },
+  {
+    "content": "Enhanced logging with JSON.stringify to make values visible",
+    "status": "completed"
+  },
+  {
+    "content": "Trigger and analyze detailed visibility logs",
+    "status": "completed"
+  },
+  {
+    "content": "Force reload frontend to ensure logging code is active",
+    "status": "completed"
+  },
+  {
+    "content": "Toggle hunt layer visibility to trigger detailed logs",
+    "status": "in_progress"
+  }
+]
